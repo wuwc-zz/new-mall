@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="newmall-web:war">
+    <output-path>$PROJECT_DIR$/newmall-web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>newmall-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="newmall-web-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="newmall-web:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/newmall-common/newmall-common.iml" filepath="$PROJECT_DIR$/newmall-common/newmall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newmall-manager/newmall-manager.iml" filepath="$PROJECT_DIR$/newmall-manager/newmall-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newmall-manager-api/newmall-manager-api.iml" filepath="$PROJECT_DIR$/newmall-manager-api/newmall-manager-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newmall-parent/newmall-parent.iml" filepath="$PROJECT_DIR$/newmall-parent/newmall-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newmall-portal/newmall-portal.iml" filepath="$PROJECT_DIR$/newmall-portal/newmall-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newmall-portal-api/newmall-portal-api.iml" filepath="$PROJECT_DIR$/newmall-portal-api/newmall-portal-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newmall-web/newmall-web.iml" filepath="$PROJECT_DIR$/newmall-web/newmall-web.iml" />
+    </modules>
+  </component>
+</project>

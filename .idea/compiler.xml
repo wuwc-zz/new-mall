@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="newmall-manager" />
+        <module name="newmall-common" />
+        <module name="newmall-manager-api" />
+        <module name="newmall-portal" />
+        <module name="newmall-portal-api" />
+        <module name="newmall-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="newmall-common" target="1.5" />
+      <module name="newmall-manager" target="1.5" />
+      <module name="newmall-manager-api" target="1.5" />
+      <module name="newmall-parent" target="1.5" />
+      <module name="newmall-portal" target="1.5" />
+      <module name="newmall-portal-api" target="1.5" />
+      <module name="newmall-web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
